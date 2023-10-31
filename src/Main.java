@@ -46,6 +46,7 @@ public class Main {
         MemberShip m1 = new MemberShip("MS1", "Aisya", "0998176541", 0);
         mbrShipList.add(m1);
         System.out.println(mbrShipList.size());
+        System.out.println();
         System.out.println("|================================================================|");
         System.out.printf("|                %-48s|\n", date);
         System.out.println("|           WELCOME TO SUPERMARKET MANAGEMENT SYSTEM             |");
